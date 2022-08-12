@@ -1,0 +1,12 @@
+#calculator {
+    border: none!important;
+    border-radius: 0;
+    padding: 0;
+    width: 270px;
+    height: 345px;
+    color: #464646;
+    background-color: #EEE;
+    background: linear-gradient(135deg, yellow 75%, yellow);
+    border-radius: 9px;
+    cursor: default;
+}
